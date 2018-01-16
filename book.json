@@ -33,7 +33,7 @@
             "showLevel": false
         },
         "edit-link": {
-            "base": "https://github.com/ColinTree/article_colintree_cn/edit/master",
+            "base": "https://github.com/ColinTree/articles_colintree_cn/edit/master",
             "label": "发现错误？提交修正"
         }
     },
