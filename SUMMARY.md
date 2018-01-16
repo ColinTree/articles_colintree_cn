@@ -1,7 +1,6 @@
 # Summary
 
 * [首页](README.md)
-* [使用SAE快速搭建网络微数据库服务器](http://tsp.colintree.cn)
 * [AI中必须了解的知识点](MustKnow/README.md)
 * [如何自己编译一个离线版Ai](BuildLocal/README.md)
 * [如何导入AIX拓展包](ImportAIX/README.md)
