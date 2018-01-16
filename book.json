@@ -18,14 +18,14 @@
             "hostname": "http://articles.colintree.cn/"
         },
         "page-footer-ex": {
-            "copyright": "By ColinTree ([邮箱](mailto://502470184@qq.com)) <br> [**捐赠**](/)",
+            "copyright": "By ColinTree - [502470184@qq.com](mailto://502470184@qq.com)",
             "markdown": true,
             "update_label": "**最后更新：** ",
             "update_format": "YYYY-MM-DD"
         },
         "donate": {
-            "wechat": "wechat.png",
-            "alipay": "alipay.png",
+            "wechat": "/wechat.png",
+            "alipay": "/alipay.png",
             "button": "赏"
         },
         "anchor-navigation-ex": {
