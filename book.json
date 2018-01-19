@@ -18,7 +18,7 @@
             "hostname": "http://articles.colintree.cn/"
         },
         "page-footer-ex": {
-            "copyright": "By ColinTree - [502470184@qq.com](mailto://502470184@qq.com)",
+            "copyright": "By ColinTree - [502470184@qq.com](mailto://502470184@qq.com) - 转载请注明出处",
             "markdown": true,
             "update_label": "**最后更新：** ",
             "update_format": "YYYY-MM-DD"
