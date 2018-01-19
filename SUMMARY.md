@@ -7,6 +7,5 @@
 * [如何写AIX(appinventor拓展组件)](CreateAIX/README.md)
 * [Activity启动器实用参数表](ActivityStarter/README.md)
     * [未翻译完整版](ActivityStarter/README.en.md)
-* [如何强制更新模拟器中的伴侣](ForceUpdateCompanion/README.md)
 * [AI运行错误代码对照](ErrorCode/README.md)
 
