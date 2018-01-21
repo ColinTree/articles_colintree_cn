@@ -11,7 +11,7 @@
     "plugins": [
     	"-sharing","-livereload","-fontsettings","-search","-lunr",
         "search-pro","sitemap2","page-footer-ex","expandable-chapters-small",
-        "splitter","donate","anchors","anchor-navigation-ex","edit-link"
+        "splitter","donate","anchors","edit-link"
     ],
     "pluginsConfig": {
         "sitemap2": {
@@ -27,10 +27,6 @@
             "wechat": "/wechat.png",
             "alipay": "/alipay.png",
             "button": "赏"
-        },
-        "anchor-navigation-ex": {
-            "multipleH1": false,
-            "showLevel": false
         },
         "edit-link": {
             "base": "https://github.com/ColinTree/articles_colintree_cn/edit/master",
