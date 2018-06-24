@@ -24,8 +24,8 @@
             "update_format": "YYYY-MM-DD"
         },
         "donate": {
-            "wechat": "/wechat.png",
-            "alipay": "/alipay.png",
+            "wechat": "wechat.png",
+            "alipay": "alipay.png",
             "button": "赏"
         },
         "edit-link": {
